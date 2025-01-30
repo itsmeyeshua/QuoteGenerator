@@ -1,0 +1,295 @@
+{
+	"quotes": [
+		{
+			"quote": "The only way to do great work is to love what you do.",
+			"author": "Steve Jobs",
+			"description": "Someone who would probably spend hours tweaking a logo just to get it 'perfect'."
+		},
+		{
+			"quote": "Success is not the key to happiness. Happiness is the key to success.",
+			"author": "Albert Schweitzer",
+			"description": "Probably enjoys a cup of coffee more than a board meeting."
+		},
+		{
+			"quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+			"author": "Ralph Waldo Emerson",
+			"description": "The kind of person who walks in the woods without a map and ends up leading a hiking group."
+		},
+		{
+			"quote": "You miss 100% of the shots you don’t take.",
+			"author": "Wayne Gretzky",
+			"description": "More likely to be seen taking a shot at a basketball hoop than a big life decision."
+		},
+		{
+			"quote": "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+			"author": "Martin Luther King Jr.",
+			"description": "Probably the one who notices when no one is laughing at their jokes."
+		},
+		{
+			"quote": "It is never too late to be what you might have been.",
+			"author": "George Eliot",
+			"description": "A lifelong 'maybe I’ll become a chef' person, but still can't boil an egg."
+		},
+		{
+			"quote": "The best way to predict the future is to create it.",
+			"author": "Abraham Lincoln",
+			"description": "Probably the one who writes out 5-year plans... then loses them."
+		},
+		{
+			"quote": "It always seems impossible until it’s done.",
+			"author": "Nelson Mandela",
+			"description": "Has that one friend who always says 'I’ll never finish this'... and then does."
+		},
+		{
+			"quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+			"author": "Ralph Waldo Emerson",
+			"description": "Definitely the person wearing the most unique sweater at the party."
+		},
+		{
+			"quote": "Happiness depends upon ourselves.",
+			"author": "Aristotle",
+			"description": "The person who finds joy in a perfect cup of tea, no matter the chaos around them."
+		},
+		{
+			"quote": "Everything you can imagine is real.",
+			"author": "Pablo Picasso",
+			"description": "Probably spends way too much time imagining 'what if' scenarios."
+		},
+		{
+			"quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+			"author": "Winston Churchill",
+			"description": "The person who always bounces back after dropping their ice cream cone."
+		},
+		{
+			"quote": "What we think, we become.",
+			"author": "Buddha",
+			"description": "Probably a fan of daily affirmations and a cup of zen tea."
+		},
+		{
+			"quote": "You must be the change you wish to see in the world.",
+			"author": "Mahatma Gandhi",
+			"description": "Someone who brings their reusable cup everywhere, even to fast food drive-thrus."
+		},
+		{
+			"quote": "Believe you can and you’re halfway there.",
+			"author": "Theodore Roosevelt",
+			"description": "That friend who insists they can bake, even if the kitchen’s still a disaster."
+		},
+		{
+			"quote": "Do what you can, with what you have, where you are.",
+			"author": "Theodore Roosevelt",
+			"description": "Probably has a talent for fixing things with duct tape and sheer will."
+		},
+		{
+			"quote": "The only limit to our realization of tomorrow is our doubts of today.",
+			"author": "Franklin D. Roosevelt",
+			"description": "Most likely the person questioning whether they should hit 'send' on that email."
+		},
+		{
+			"quote": "The journey of a thousand miles begins with one step.",
+			"author": "Lao Tzu",
+			"description": "Will definitely get lost along the way but somehow always finds their way back."
+		},
+		{
+			"quote": "Life is what happens when you’re busy making other plans.",
+			"author": "John Lennon",
+			"description": "That friend who can’t find their keys but somehow makes every moment an adventure."
+		},
+		{
+			"quote": "We do not remember days, we remember moments.",
+			"author": "Cesare Pavese",
+			"description": "Tends to live life as if every sunset is a Kodak moment."
+		},
+		{
+			"quote": "Love the life you live. Live the life you love.",
+			"author": "Bob Marley",
+			"description": "Has a playlist for every mood and often lives like they’re in a music video."
+		},
+		{
+			"quote": "Doubt kills more dreams than failure ever will.",
+			"author": "Suzy Kassem",
+			"description": "That person who keeps putting off their dreams, but has 1000 ideas for future projects."
+		},
+		{
+			"quote": "You are never too old to set another goal or to dream a new dream.",
+			"author": "C.S. Lewis",
+			"description": "Probably the person who just learned about the latest trend and can’t stop talking about it."
+		},
+		{
+			"quote": "The only thing standing between you and your goal is the story you keep telling yourself.",
+			"author": "Jordan Belfort",
+			"description": "Frequently stops themselves from doing something because of a 'what if?' scenario."
+		},
+		{
+			"quote": "In the middle of every difficulty lies opportunity.",
+			"author": "Albert Einstein",
+			"description": "Definitely the one who finds a silver lining, even when it's raining."
+		},
+		{
+			"quote": "Life is either a daring adventure or nothing at all.",
+			"author": "Helen Keller",
+			"description": "Probably the one taking last-minute trips and always packing a bag for 'spontaneous adventures'."
+		},
+		{
+			"quote": "It does not matter how slowly you go as long as you do not stop.",
+			"author": "Confucius",
+			"description": "Tends to take the scenic route, but somehow always gets where they need to be."
+		},
+		{
+			"quote": "There are no shortcuts to any place worth going.",
+			"author": "Beverly Sills",
+			"description": "Believes in the journey, even if it means taking the long way around."
+		},
+		{
+			"quote": "Life isn’t about waiting for the storm to pass, it’s about learning to dance in the rain.",
+			"author": "Vivian Greene",
+			"description": "That person who’ll happily splash through puddles no matter the weather."
+		},
+		{
+			"quote": "Do not wait to strike till the iron is hot, but make it hot by striking.",
+			"author": "William Butler Yeats",
+			"description": "The one who turns every opportunity into an action plan, whether or not it’s a good idea."
+		},
+		{
+			"quote": "You only live once, but if you do it right, once is enough.",
+			"author": "Mae West",
+			"description": "The type to always make sure they enjoy the moment—after all, 'you only live once'."
+		},
+		{
+			"quote":"Life isn’t about getting and having, it’s about giving and being.","author":"Kevin Kruse",
+			"description":"Probably the guy who gives away the last slice of pizza, but secretly cries about it later."
+		},
+		{
+			"quote":"Whatever the mind of man can conceive and believe, it can achieve.","author":"Napoleon Hill",
+			"description":"The original motivational speaker, but probably would lose his keys daily."
+		},
+		{
+			"quote":"Strive not to be a success, but rather to be of value.","author":"Albert Einstein",
+			"description":"Genius in physics, but maybe struggled with parallel parking."
+		},
+		{
+			"quote":"Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference.","author":"Robert Frost",
+			"description":"Took the road less traveled and still managed to get lost."
+		},
+		{
+			"quote":"I attribute my success to this: I never gave or took any excuse.","author":"Florence Nightingale",
+			"description":"Saved lives while secretly judging your excuse for skipping leg day."
+		},
+		{
+			"quote":"I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. 26 times I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed.","author":"Michael Jordan",
+			"description":"Proved that even the greatest start with blooper reels."
+		},
+		{
+			"quote":"The most difficult thing is the decision to act, the rest is merely tenacity.","author":"Amelia Earhart",
+			"description":"Took risks so big, she literally disappeared into them."
+		},
+		{
+			"quote":"Every strike brings me closer to the next home run.","author":"Babe Ruth",
+			"description":"Struck out so often, he was on a first-name basis with disappointment."
+		},
+		{
+			"quote":"Definiteness of purpose is the starting point of all achievement.","author":"W. Clement Stone",
+			"description":"Sounds serious, but would probably spill coffee on his purpose notes."
+		},
+		{
+			"quote":"We must balance conspicuous consumption with conscious capitalism.","author":"Kevin Kruse",
+			"description":"The kind of guy who eats kale chips at a steakhouse."
+		},
+		{
+			"quote":"We become what we think about.","author":"Earl Nightingale",
+			"description":"Thought himself into wisdom, and probably into bad haircuts too."
+		},
+		{
+			"quote":"Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do, so throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails. Explore, Dream, Discover.","author":"Mark Twain",
+			"description":"The original adventurer who’d probably complain about cruise buffets."
+		},
+		{
+			"quote":"Life is 10% what happens to me and 90% of how I react to it.","author":"Charles Swindoll",
+			"description":"Keeps his cool in traffic, but loses it when the WiFi is slow."
+		},
+		{
+			"quote":"The most common way people give up their power is by thinking they don’t have any.","author":"Alice Walker",
+			"description":"Reminds you of your worth while forgetting where she put her glasses."
+		},
+		{
+			"quote":"The mind is everything. What you think you become.","author":"Buddha",
+			"description":"Master of mindfulness but might’ve skipped leg day on enlightenment."
+		},
+		{
+			"quote":"The best time to plant a tree was 20 years ago. The second best time is now.","author":"Chinese Proverb",
+			"description":"Reminds you of your procrastination, even with gardening."
+		},
+		{
+			"quote":"An unexamined life is not worth living.","author":"Socrates",
+			"description":"The original overthinker who'd probably critique your Instagram captions."
+		},
+		{
+			"quote":"Eighty percent of success is showing up.","author":"Woody Allen",
+			"description":"Mastered the art of arriving, but maybe not the art of leaving gracefully."
+		},
+		{
+			"quote":"Your time is limited, so don’t waste it living someone else’s life.","author":"Steve Jobs",
+			"description":"Told us to live our truth, but sold us better ways to scroll it."
+		},
+		{
+			"quote":"Winning isn’t everything, but wanting to win is.","author":"Vince Lombardi",
+			"description":"Would probably turn Monopoly into a life-or-death event."
+		},
+		{
+			"quote":"I am not a product of my circumstances. I am a product of my decisions.","author":"Stephen Covey",
+			"description":"The guy who makes decisions look cooler than they feel."
+		},
+		{
+			"quote":"Every child is an artist. The problem is how to remain an artist once he grows up.","author":"Pablo Picasso",
+			"description":"Turned weird shapes into art but probably struggled with assembling IKEA furniture."
+		},
+		{
+			"quote":"You can never cross the ocean until you have the courage to lose sight of the shore.","author":"Christopher Columbus",
+			"description":"Lost sight of the shore and accidentally invented Thanksgiving."
+		},
+		{
+			"quote":"I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.","author":"Maya Angelou",
+			"description":"The queen of vibes and the ultimate emotional bookmark."
+		},
+		{
+			"quote":"Either you run the day, or the day runs you.","author":"Jim Rohn",
+			"description":"Motivates you to run your day, but probably snoozes his alarms too."
+		},
+		{
+			"quote":"Whether you think you can or you think you can’t, you’re right.","author":"Henry Ford",
+			"description":"Believed in assembly lines but probably assembled IKEA furniture backward."
+		},
+		{
+			"quote":"The two most important days in your life are the day you are born and the day you find out why.","author":"Mark Twain",
+			"description":"Lived for purpose and side-eyeing people who didn't tip."
+		},
+		{
+			"quote":"Whatever you can do, or dream you can, begin it. Boldness has genius, power and magic in it.","author":"Johann Wolfgang von Goethe",
+			"description":"Believed in boldness but might’ve tripped over his own cape."
+		},
+		{
+			"quote":"The best revenge is massive success.","author":"Frank Sinatra",
+			"description":"Crooned his way to success and probably still argued over the TV remote."
+		},
+		{
+			"quote":"Lli 3ta zko, lhla yfeko","author":"asmae",
+			"description": "Wa kanbghik alkherya diri m3aya chi 7el"
+		},
+		{
+			"quote":"in lam tastati3 mo9awatah, istamti3 bih","author":"imadha",
+			"description":"One of the smartest and funniest people on earth, or at least that's what he keeps telling himself"
+		},
+		{
+			"quote":"aaaa galo lia?? w zbi malo?","author":"Richard Azzouz",
+			"description":"Awal chle7 ihez bdrapeau dl'Amazigh"
+		},
+		{
+			"quote":"Please do not call me arrogant because what I say is true. I'm European champion. I think I'm a special one","author":"special one",
+			"description":"He's the special one"
+		},
+		{
+			"quote":"khassna nsy9o","author":"markik",
+			"description":"Makatrche9 lih 3la n9a ta kanbghiw naklo"
+		}
+	]
+}
