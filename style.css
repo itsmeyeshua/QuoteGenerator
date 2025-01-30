@@ -105,12 +105,38 @@
 .author-des-container {
     background-color: white;
     width: 30%;
-    margin-right: 30px;
+    margin: 0 30px;
     display: flex;
     flex-direction: column;
     padding: 20px;
     border-radius: 40px;
     position: relative;
+}
+@media (max-width: 1048px) {
+    .author-des-container {
+        width: 40%;
+    }
+}
+@media (max-width: 768px) {
+    .author-des-container {
+        width: 60%;
+    }
+}
+@media (max-width: 530px) {
+    * {
+        font-size: 15px;
+    }
+    .quote-container {
+        width: fit-content;
+        max-width: 100%;
+        margin-top: 20vh;
+        margin: 20vh 10px 0;
+    }
+
+    .author-des-container {
+        width: 100%;
+        margin: 10px;
+    }
 }
 
 .acc-author {

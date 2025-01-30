@@ -1,10 +1,3 @@
-for (let i = 1; i < 6; i++)
-{
-    setTimeout(function() {
-        console.log(i);
-    }, i * 1000);
-}
-
 window.addEventListener("load", function() {
     let randomeNum = Math.floor(Math.random() * 105);
     let quote = document.querySelector(".quote");
