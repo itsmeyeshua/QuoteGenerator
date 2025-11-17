@@ -1,5 +1,5 @@
 # 📚 Random Quote Generator
-A full-stack web app that displays random inspirational quotes with smooth animations.
+A full-stack web application that displays random inspirational quotes, built with pure vanilla JavaScript on the frontend for optimal performance and modern backend technologies.
 [Live Demo](https://quote-generatorfront.vercel.app)
 
 ## ✨ Features
