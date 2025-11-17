@@ -70,6 +70,7 @@
 
 .hereiam {
     position: absolute;
+    border: 3px white solid;
     background-color: #39536c;
     top: 100%;
     left: 100%;
@@ -176,4 +177,19 @@
     margin-top: 10px;
     padding-top: 10px;
     border-top: 1px black solid;
+}
+
+.github_link {
+    color: white;
+    text-decoration: none;
+}
+
+@media (max-width: 768px) {
+    .github_link {
+        text-decoration: underline;
+    }
+}
+
+.github_link:hover {
+    text-decoration: underline;
 }
