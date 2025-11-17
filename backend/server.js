@@ -6,26 +6,10 @@ require('dotenv').config();
 const app = express();
 const PORT = process.env.PORT || 5000;
 
-const corsOptions = {
-  origin: function (origin, callback) {
-    if (!origin) return callback(null, true);
-    
-    const allowedOrigins = [
-      'https://quote-generatorfront.vercel.app',
-    ];
-
-    if (allowedOrigins.indexOf(origin) !== -1) {
-      callback(null, true);
-    } else {
-      callback(new Error('Not allowed by CORS'));
-    }
-  },
-  methods: ['GET'],
-  optionsSuccessStatus: 200
-};
-
-// Middleware
-app.use(cors(corsOptions));
+app.use(cors({
+  origin: '*', // Allows all origins
+  credentials: true
+}));
 app.use(express.json());
 
 // MongoDB Connection
