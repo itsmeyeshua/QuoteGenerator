@@ -22,7 +22,7 @@ async function getQuotes() {
     }
     
     try {
-        const response = await fetch('http://localhost:5000/api/quotes'); // CHANGE
+        const response = await fetch('https://quote-generator-backend-theta.vercel.app/api/quotes/api/quotes');
         if (!response.ok) {
             throw new Error('Failed to fetch quotes from API');
         }
