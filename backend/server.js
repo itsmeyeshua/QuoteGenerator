@@ -11,7 +11,7 @@ const corsOptions = {
     if (!origin) return callback(null, true);
     
     const allowedOrigins = [
-      'https://your-frontend-domain.com', // CHANGE
+      'https://quote-generatorfront.vercel.app/',
     ];
 
     if (allowedOrigins.indexOf(origin) !== -1) {
