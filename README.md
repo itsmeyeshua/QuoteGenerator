@@ -1,23 +1,23 @@
-# 📚 Random Quote Generator
+# Random Quote Generator
 A full-stack web application that displays random inspirational quotes, built with pure vanilla JavaScript on the frontend for optimal performance and modern backend technologies.
 [Live Demo](https://quote-generatorfront.vercel.app)
 
-## ✨ Features
-* 🎲 Random inspirational quotes
+## Features
+* Random inspirational quotes
 
-* 👤 Author information with toggle
+* Author information with toggle
 
-* 📱 Fully responsive design
+* Fully responsive design
 
-* ⚡ Fast loading with caching
+* Fast loading with caching
 
-## 🛠️ Tech Stack
+## Tech Stack
 ```
 Frontend: HTML5, CSS3, Vanilla JavaScript
 Backend: Node.js, Express, MongoDB Atlas
 Hosting: Vercel (Frontend & Backend)
 ```
-## 📁 Project Structure
+## Project Structure
 ```bash
 quote-generator/
 ├── frontend/          # Static files (Vercel)
@@ -25,7 +25,7 @@ quote-generator/
 └── database/          # MongoDB Atlas
 ```
 
-## 🔄 Development
+## Development
 
 ### Frontend Development
 ```bash
@@ -53,7 +53,7 @@ echo "PORT=5000" >> .env
 npm run dev
 ```
 
-### 🗄️ Database Schema
+### Database Schema
 ```javascript
 {
   quote: String,        // The inspirational quote text
@@ -62,7 +62,7 @@ npm run dev
 }
 ```
 
-## 🌟 Features in Detail
+## Features in Detail
 ### Frontend Features
 - Local Storage Caching - Quotes cached for 24 hours
 
@@ -81,7 +81,39 @@ npm run dev
 
 - MongoDB Optimization - Connection pooling and timeouts
 
-## 🔧 API Endpoints
+## API Endpoints
 GET /api/quotes - Get all quotes
 
 GET /api/quotes/random - Get random quote
+
+## Force Refresh (Bypass Cache)
+Use this when a bot or user must fetch fresh data and skip aggressive caching.
+
+### Frontend Route
+Open the app with:
+
+```text
+/?forceRefresh=true
+```
+
+Behavior:
+- Skips localStorage quote cache on initial load
+- Forces a fresh request to the backend
+- Adds a timestamp query value to avoid intermediary cache reuse
+
+Example:
+
+```text
+https://quote-generatorfront.vercel.app/?forceRefresh=true
+```
+
+### API Request
+You can also call the API with:
+
+```text
+/api/quotes?forceRefresh=true
+```
+
+Behavior:
+- Backend sends no-cache headers (`Cache-Control`, `Pragma`, `Expires`, `Surrogate-Control`)
+- Helps ensure proxies/CDNs do not return stale cached responses

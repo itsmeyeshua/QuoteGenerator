@@ -8,10 +8,11 @@ const PORT = process.env.PORT || 5000;
 
 const corsOptions = {
   origin: function (origin, callback) {
+    console.log('Incoming origin:', origin);
     if (!origin) return callback(null, true);
     
     const allowedOrigins = [
-      'https://quote-generatorfront.vercel.app',
+      'https://quote-generatorfront.vercel.app'
     ];
 
     if (allowedOrigins.indexOf(origin) !== -1) {
@@ -57,6 +58,13 @@ const Quote = mongoose.model('Quote', quoteSchema);
 // ROUTES
 app.get('/api/quotes', async (req, res) => {
   try {
+    if (req.query.forceRefresh === 'true') {
+      res.set('Cache-Control', 'no-store, no-cache, must-revalidate, proxy-revalidate');
+      res.set('Pragma', 'no-cache');
+      res.set('Expires', '0');
+      res.set('Surrogate-Control', 'no-store');
+    }
+
     const quotes = await Quote.find();
     res.json({
       success: true,
