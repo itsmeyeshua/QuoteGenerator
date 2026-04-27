@@ -25,8 +25,7 @@ async function getQuotes({ forceRefresh = false } = {}) {
     }
     
     try {
-        // const apiUrl = new URL('https://quote-generator-backend-theta.vercel.app/api/quotes');
-        const apiUrl = new URL('http://127.0.0.1:5000/api/quotes');
+        const apiUrl = new URL('https://quote-generator-backend-theta.vercel.app/api/quotes');
         if (forceRefresh) {
             apiUrl.searchParams.set('forceRefresh', 'true');
             apiUrl.searchParams.set('t', Date.now().toString());
